@@ -1,6 +1,6 @@
 
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="200px"/>
-<h1 align="left">Hi<img align="left" src="https://camo.githubusercontent.com/6d18d425abaf0f7e2a9b9cf0685f9af3ee0ee4b0e141ec2b514ed618b605bb2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31302f39342f32332f31303934323366373631303265356538663730336237303631326161613938622e676966" height="20px" width="40px"/>, I'm Dinesh Basnet</h1>
+<h1 align="left">Hi<img align="left" src="https://camo.githubusercontent.com/6d18d425abaf0f7e2a9b9cf0685f9af3ee0ee4b0e141ec2b514ed618b605bb2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31302f39342f32332f31303934323366373631303265356538663730336237303631326161613938622e676966" width="40px"/>, I'm Dinesh Basnet</h1>
 <h3 align="left">A passionate frontend developer <img src="https://media.baamboozle.com/uploads/images/417119/1626238668_73534_gif-url.gif" height="40px" width="40px" /> from Nepal</h3>
 
 [![](https://visitcount.itsvg.in/api?id=iamdineshbasnet&icon=6&color=6)](https://visitcount.itsvg.in)
