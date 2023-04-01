@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **iamdineshbasnet@gmail.com**
 
-## <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif"  width="40px"/> Socials:
+## <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif"  width="40px" style="translateY(-50%)"/> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamdineshbasnet) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdineshbasnet) &nbsp; [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iamdineshbasnet) 
 
 ## <img src="https://y31uv4ra1.vo.llnwd.net/content/wp/tweaklibrary_com/uploads/2019/12/giphy-1-1.gif" width="40px"/> Tech Stack:
