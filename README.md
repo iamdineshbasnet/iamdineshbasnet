@@ -18,7 +18,7 @@
 
 
 ### Contribution Snake Graph
-![snake gif](https://github.com/AmeyaJain-25/AmeyaJain-25/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iamdineshbasnet/Blob/blob/main/github-contribution-grid-snake.gif)
 
 <!-- ## <div style="display: flex; align-items: center;gap: 5px;" ><img src="https://i0.wp.com/thenetworkvocal.com/wp-content/uploads/2022/12/161-growth-gradient.gif?fit=400%2C400&ssl=1" width="40px" /> GitHub Stats:</div>
 ![](https://github-readme-stats.vercel.app/api?username=iamdineshbasnet&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
